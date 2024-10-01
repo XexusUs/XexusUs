@@ -1,5 +1,5 @@
 - 👋 Mike of XexusUs
-- 👀 I’m interested in Python, Web Design, Playing GO and MineCraft, and recently the Raspberry Pico
+- 👀 I’m interested in Python, Web Design, Playing GO and MineCraft, and recently the Raspberry SMBs
 - 🌱 I’m currently learning MicroPython and Linux
 - 💞️ Nothing to contribute at the moment.
 - 📫 How to reach me: mike@xexus.us
